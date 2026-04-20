@@ -1,11 +1,11 @@
 # Olá, eu sou o Gustavo! 👋
 
-Estudante de TI na UFC e entusiasta de desenvolvimento Web e Mobile. Atualmente focado em criar soluções eficientes com React, TypeScript e Tailwind CSS.
+Estudante de TI na UFC, desenvolvimento Web e Mobile. Atualmente focado em criar soluções eficientes com React, TypeScript.
 
 ## 🚀 Projetos em Destaque
 
 ### 🏋️‍♀️ Landing Page - Rafaele Martins (Personal Trainer)
-Desenvolvimento de uma página institucional focada em conversão e agendamentos.
+Desenvolvimento de uma página para clientes da prosional, focada em conversão e agendamentos.
 - **Tecnologias:** React, Vite, Tailwind CSS, shadcn/ui.
 - **Destaque:** Interface totalmente responsiva e integração direta com WhatsApp.
 - **Projeto:** [Link] : https://rafaele-martins-personal.vercel.app/
