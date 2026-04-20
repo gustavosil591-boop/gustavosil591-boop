@@ -3,7 +3,6 @@
 Estudante de TI na UFC e entusiasta de desenvolvimento Web e Mobile. Atualmente focado em criar soluções eficientes com React, TypeScript e Tailwind CSS.
 
 ## 🚀 Projetos em Destaque
-![Preview do Site](./image.png)
 
 ### 🏋️‍♀️ Landing Page - Rafaele Martins (Personal Trainer)
 Desenvolvimento de uma página institucional focada em conversão e agendamentos.
@@ -16,3 +15,7 @@ Desenvolvimento de uma página institucional focada em conversão e agendamentos
 - **Linguagens:** TypeScript, JavaScript, Java, Python, Rust.
 - **Frameworks/Libs:** React, Next.js, Material UI.
 - **Ferramentas:** Git, GitHub Codespaces, Vercel, MySQL, Supabase.
+
+<div align="center">
+  <img src="./image.png" alt="Preview do Site Rafaele Martins" width="600">
+</div>
