@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo! 👋
 
-<!--
-**gustavosil591-boop/gustavosil591-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de TI na UFC e entusiasta de desenvolvimento Web e Mobile. Atualmente focado em criar soluções eficientes com React, TypeScript e Tailwind CSS.
 
-Here are some ideas to get you started:
+## 🚀 Projetos em Destaque
+![Preview do Site](./image.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏋️‍♀️ Landing Page - Rafaele Martins (Personal Trainer)
+Desenvolvimento de uma página institucional focada em conversão e agendamentos.
+- **Tecnologias:** React, Vite, Tailwind CSS, shadcn/ui.
+- **Destaque:** Interface totalmente responsiva e integração direta com WhatsApp.
+- **Projeto:** [Link] : https://rafaele-martins-personal.vercel.app/
+- *(Código privado por questões de privacidade da cliente)*
+
+## 🛠️ Habilidades Técnicas
+- **Linguagens:** TypeScript, JavaScript, Java, Python, Rust.
+- **Frameworks/Libs:** React, Next.js, Material UI.
+- **Ferramentas:** Git, GitHub Codespaces, Vercel, MySQL, Supabase.
