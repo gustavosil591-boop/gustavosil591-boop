@@ -10,13 +10,19 @@ Desenvolvimento de uma página para clientes da profissional, focada em convers�
 - **Destaque:** Interface totalmente responsiva e integração direta com WhatsApp e galeria de resultados otimizadas.
 - **Projeto:** [Link do projeto] : https://rafaele-martins-personal.vercel.app/
 - *(Código privado por questões de privacidade da cliente)*
-- 
+- <div align="center">
+  <img src="./image.png" alt="Preview do Site Rafaele Martins" width="600">
+</div>
+
 ### 🏋️‍♀️ Landing Page - Lara Macedo (Personal Treiner)
 Desenvolvimento de uma página focada em consultoria de alta performance e resultados.
 - **Tecnologias:** React, Vite, Tailwind CSS, shadcn/ui.
 - **Destaque:** Galeria de resultados otimizada e design focado em conversão.
 - **Projeto: [Link do projeto]** : https://lara-marcedo-performance.vercel.app/
 - *(Código privado por questões de privacidade da cliente)*
+<div align="center">
+  <img src="./lara-preview.png" alt="Preview Lara Macedo" width="500">
+</div>
 
 ---
 ## 🛠️ Habilidades Técnicas
@@ -24,10 +30,4 @@ Desenvolvimento de uma página focada em consultoria de alta performance e resul
 - **Frameworks/Libs:** React, Next.js, Material UI.
 - **Ferramentas:** Git, GitHub Codespaces, Vercel, MySQL, Supabase.
 
-<div align="center">
-  <img src="./image.png" alt="Preview do Site Rafaele Martins" width="600">
-</div>
 
-<div align="center">
-  <img src="./lara-preview.png" alt="Preview Lara Macedo" width="500">
-</div>
