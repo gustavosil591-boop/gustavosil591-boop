@@ -5,12 +5,20 @@ Estudante de TI na UFC, desenvolvimento Web e Mobile. Atualmente focado em criar
 ## 🚀 Projetos em Destaque
 
 ### 🏋️‍♀️ Landing Page - Rafaele Martins (Personal Trainer)
-Desenvolvimento de uma página para clientes da prosional, focada em conversão e agendamentos.
+Desenvolvimento de uma página para clientes da profissional, focada em conversão e agendamentos.
 - **Tecnologias:** React, Vite, Tailwind CSS, shadcn/ui.
-- **Destaque:** Interface totalmente responsiva e integração direta com WhatsApp.
-- **Projeto:** [Link] : https://rafaele-martins-personal.vercel.app/
+- **Destaque:** Interface totalmente responsiva e integração direta com WhatsApp e galeria de resultados otimizadas.
+- **Projeto:** [Link do projeto] : https://rafaele-martins-personal.vercel.app/
+- *(Código privado por questões de privacidade da cliente)*
+- 
+### 🏋️‍♀️ Landing Page - Lara Macedo (Personal Treiner)
+Desenvolvimento de uma página focada em consultoria de alta performance e resultados.
+- **Tecnologias:** React, Vite, Tailwind CSS, shadcn/ui.
+- **Destaque:** Galeria de resultados otimizada e design focado em conversão.
+- **Projeto: [Link do projeto]** : https://lara-marcedo-performance.vercel.app/
 - *(Código privado por questões de privacidade da cliente)*
 
+---
 ## 🛠️ Habilidades Técnicas
 - **Linguagens:** TypeScript, JavaScript, Java, Python, Rust.
 - **Frameworks/Libs:** React, Next.js, Material UI.
@@ -18,4 +26,8 @@ Desenvolvimento de uma página para clientes da prosional, focada em conversão 
 
 <div align="center">
   <img src="./image.png" alt="Preview do Site Rafaele Martins" width="600">
+</div>
+
+<div align="center">
+  <img src="./lara-preview.png" alt="Preview Lara Macedo" width="500">
 </div>
