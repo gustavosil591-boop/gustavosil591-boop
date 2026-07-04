@@ -24,6 +24,12 @@ Desenvolvimento de uma página focada em consultoria de alta performance e resul
   <img src="./lara-preview.png" alt="Preview Lara Macedo" width="500">
 </div>
 
+###  Landing Page - Inara Paulino (Nail Designer)
+Desenvolvimento de uma página para clientes da profissional, com sistema de agendamento integrado.
+- **Tecnologias:** React, TypeScript, Vite, Tailwind CSS, Supabase
+- *Destaque:* Sistema de agendamento com calendário interativo, verificação de horários disponíveis em tempo real e confirmação direta via WhatsApp
+- *Projeto:* [Link do projeto]: https://inara-unhas.vercel.app/
+- *(Código privado por questões de privacidade da cliente)*
 ---
 ## 🛠️ Habilidades Técnicas
 - **Linguagens:** TypeScript, JavaScript, Java, Python, Rust.
