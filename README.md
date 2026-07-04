@@ -11,7 +11,7 @@ Desenvolvimento de uma página para clientes da profissional, focada em convers�
 - **Projeto:** [Link do projeto] : https://rafaele-martins-personal.vercel.app/
 - *(Código privado por questões de privacidade da cliente)*
 - <div align="center">
-  <img src="./image.png" alt="Preview do Site Rafaele Martins" width="600">
+  <img src="./image.png" alt="Preview do Site Rafaele Martins" width="500">
 </div>
 
 ### 🏋️‍♀️ Landing Page - Lara Macedo (Personal Treiner)
@@ -30,6 +30,9 @@ Desenvolvimento de uma página para clientes da profissional, com sistema de age
 - **Destaque:** Sistema de agendamento com calendário interativo, verificação de horários disponíveis em tempo real e confirmação direta via WhatsApp
 - **Projeto: [Link do projeto]:** https://inara-unhas.vercel.app/
 - *(Código privado por questões de privacidade da cliente)*
+<div align="center">
+  <img src="./inara.png" alt="Preview do site da inara" width="500">
+</div>
 ---
 ## 🛠️ Habilidades Técnicas
 - **Linguagens:** TypeScript, JavaScript, Java, Python, Rust.
